@@ -1,0 +1,25 @@
+<section class="section banner">
+    <div [@bannerTrigger] class="container">
+        <div class="section-box-banner">
+            <div class="content">
+                <div>
+                    <!-- <h1>Hola, mi nombre es</h1> -->
+                    <h1>{{"Banner.Pretitle" | translate}}</h1>
+                </div>
+                <div class='banner-title'>
+                    <h2>Aman Rajbhar</h2>
+                    <h3>Software Developer</h3>
+                </div>
+                <div class='banner-description'>
+                    <p [innerHTML]='"Banner.Description" | translate' class="mt-4"></p>
+                    <!-- <p>I have 1 years of experience developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in Angular applying good practices and development standards.</p> -->
+                </div>
+            </div>
+            <div class="div-btn-banner">
+                <a (click)='analyticsService.sendAnalyticEvent("click_send_mail", "banner", "email")' href="mailto:amnnrajbhar@gmail.com" target="_black" class="main-btn">
+                    {{"Banner.ActionBtn" | translate}}
+                </a>
+            </div>
+        </div>
+    </div>
+</section>

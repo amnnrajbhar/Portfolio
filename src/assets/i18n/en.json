@@ -1,0 +1,91 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Resume",
+    "Header.cvName": "Aman_Rajbhar.pdf",
+
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>1 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>1 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>MVC</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [{
+            "Tab": "Project",
+            "Title": "Junior Software developer",
+            "Date": "August 2022 - Present",
+            "Description": [
+              "•Adapted interfaces for modern internet applications using the latest front-end technologies.",
+              "•Write JavaScript, CSS, and HTML.",
+              "•Develop product analysis tasks.",
+              "•Did complex technical and design decisions for Angular projects.",
+              "•Develop application code and unit tests in Angular, Java Technologies, and Rest Web Services."
+            ]
+        }
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+            "Title": "StyleHub",
+            "Description": "Salon Slot Booking application made from scratch with firebase auth module, <span class='underline'>Choice Based Services</span>, <span class='underline'>Advance Salon Services</span>, and <span class='underline'>user management</span>. It also has <span class='underline'>Razor Payment Gateway.</span>",
+            "imgs": [
+                "assets/images/stylehub/mainLogo.jpg",
+                "assets/images/stylehub/detailsToFill.jpg",
+                "assets/images/stylehub/enterNo.jpg",
+                "assets/images/stylehub/verifyOtp.jpg",
+                "assets/images/stylehub/loginInfo.jpg"
+            ],
+            "Technologies": ["Java", "Android Studio", "XML", "Firebase", "Razorpay"]
+        },
+        {
+            "Title": "Services",
+            "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+            "imgs": [
+                "assets/images/stylehub/ShopInfo.jpg",
+                "assets/images/stylehub/TimeSelection.jpg",
+                "assets/images/stylehub/Services.jpg",
+                "assets/images/stylehub/hairNshaving.jpg",
+                "assets/images/stylehub/TreatmentAndColor.jpg",
+                "assets/images/stylehub/Payment.jpg",
+                "assets/images/stylehub/paymentMode.jpg",
+                "assets/images/stylehub/BookingStatus.jpg"
+            ],
+            "Technologies": ["Java", "Android Studio", "XML", "Firebase", "Razorpay"]
+        },
+        {
+            "Title": "Database",
+            "Description": "<span class='underline'>Booking</span> and <span class='underline'>Login</span> That Are Made In Stylehub Application can view Here. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+            "imgs": [
+                "assets/images/stylehub/DB1.jpg",
+                "assets/images/stylehub/DB2.jpg"
+            ],
+            "Technologies": ["Firebase"]
+        }
+    ],
+
+
+
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [{
+            "Title": "Online Book Store",
+            "Description": "Online Book Store Website Using Razorpay,Xaamp Server"
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+
+
+}
