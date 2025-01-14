@@ -1,4 +1,4 @@
-# Angular cache
-.angular/cache
 node_modules/
 dist/
+.angular/
+*.log
