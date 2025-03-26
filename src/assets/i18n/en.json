@@ -1,104 +1,206 @@
 {
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Aman_Rajbhar.pdf",
 
-    "Header.Item1" : "About me",
-    "Header.Item2" : "Experience",
-    "Header.Item3" : "Projects",
-    "Header.Item4" : "Contact",
-    "Header.cvBtn" : "Resume",
-    "Header.cvName": "Aman_Rajbhar.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>2+ years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> applying good practices and development standards.",
+  "Banner.ActionBtn": "Get in touch",
 
-    "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>2+ years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> applying good practices and development standards.",
-    "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "In my <span class='underline'>2+ years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>MVC</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+    "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+  ],
 
-    "AboutMe.Title": "About me",
-    "AboutMe.Paragraphs": [
-        "In my <span class='underline'>2+ years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>MVC</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
-        "Some of the technologies that I have trained and worked on include (but are not limited to):"
-    ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Current",
+      "Company": "Clover Infotech",
+      "Title": "Software Engineer",
+      "Date": "Dec 2024 - Present",
+      "Description": [
+        "•Adapted interfaces for modern internet applications using the latest front-end technologies.",
+        "•Write JavaScript, CSS, and HTML.",
+        "•Develop product analysis tasks.",
+        "•Did complex technical and design decisions for Angular projects.",
+        "•Develop application code and unit tests in Angular, Java Technologies, and Rest Web Services."
+      ]
+    },
+    {
+      "Tab": "Previous",
+      "Company": "BSCL",
+      "Title": "Software Developer",
+      "Date": "August 2022 - Present",
+      "Description": [
+        "• Adapted interfaces for security-focused applications using modern front-end technologies.",
+        "• Wrote JavaScript, CSS, and HTML for interactive CTF challenge platforms.",
+        "• Developed analysis tasks for reverse engineering and Windows security research.",
+        "• Made complex technical decisions for projects involving Angular and security frameworks.",
+        "• Developed application code and unit tests in Angular, Java technologies, and RESTful web services with a focus on secure implementations."
+      ]
+    }
+  ],
 
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "StyleHub",
+      "Description": "Salon Slot Booking application made from scratch with firebase auth module, <span class='underline'>Choice Based Services</span>, <span class='underline'>Advance Salon Services</span>, and <span class='underline'>user management</span>. It also has <span class='underline'>Razor Payment Gateway.</span>",
+      "imgs": [
+        "assets/images/stylehub/mainLogo.jpg",
+        "assets/images/stylehub/detailsToFill.jpg",
+        "assets/images/stylehub/enterNo.jpg",
+        "assets/images/stylehub/verifyOtp.jpg",
+        "assets/images/stylehub/loginInfo.jpg"
+      ],
+      "Technologies": ["Java", "Android Studio", "XML", "Firebase", "Razorpay"]
+    },
+    {
+      "Title": "Services",
+      "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+      "imgs": [
+        "assets/images/stylehub/ShopInfo.jpg",
+        "assets/images/stylehub/TimeSelection.jpg",
+        "assets/images/stylehub/Services.jpg",
+        "assets/images/stylehub/hairNshaving.jpg",
+        "assets/images/stylehub/TreatmentAndColor.jpg",
+        "assets/images/stylehub/Payment.jpg",
+        "assets/images/stylehub/paymentMode.jpg",
+        "assets/images/stylehub/BookingStatus.jpg"
+      ],
+      "Technologies": ["Java", "Android Studio", "XML", "Firebase", "Razorpay"]
+    },
+    {
+      "Title": "Database",
+      "Description": "<span class='underline'>Booking</span> and <span class='underline'>Login</span> That Are Made In Stylehub Application can view Here. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span>, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+      "imgs": [
+        "assets/images/stylehub/DB1.jpg",
+        "assets/images/stylehub/DB2.jpg"
+      ],
+      "Technologies": ["Firebase"]
+    },
+    {
+      "Title": "Weather Web App",
+      "Description": "Real-time weather updates application with <span class='underline'>OpenWeather API integration</span>, <span class='underline'>location-based weather</span>, <span class='underline'>forecast details</span>, and <span class='underline'>responsive design</span>.",
+      "imgs": [
+        "assets/images/weather/home.png",
+        "assets/images/weather/forecast.png",
+        "assets/images/weather/dayHome.png"
+      ],
+      "Technologies": ["HTML5", "CSS3", "JavaScript", "OpenWeather API"],
+      "ghLink": "https://github.com/amnnrajbhar/weather-app/",
+      "demoLink": "https://weather-app-amnnrajbhars-projects.vercel.app/"
+    },
+    {
+      "Title": "GenAI Web App",
+      "Description": "AI-powered chatbot application built with <span class='underline'>Google's Generative AI</span>, featuring <span class='underline'>natural language processing</span>, <span class='underline'>context-aware responses</span>, and <span class='underline'>modern UI design</span>.",
+      "imgs": [
+        "assets/images/genai/home.jpeg",
+        "assets/images/genai/MobileView.jpeg"
+      ],
+      "Technologies": [
+        "Ionic",
+        "Angular",
+        "Google's Generative AI",
+        "TypeScript"
+      ],
+      "ghLink": "https://github.com/amnnrajbhar/GenAi-iOnic-App/",
+      "demoLink": "https://genai-ionic.vercel.app/home/"
+    },
+    {
+      "Title": "LMS Portal",
+      "Description": "Learning Management System featuring <span class='underline'>course management</span>, <span class='underline'>student progress tracking</span>, <span class='underline'>content delivery</span>, and <span class='underline'>assessment tools</span>.",
+      "imgs": [
+        "assets/images/lms/loginPage.jpeg",
+        "assets/images/lms/dashboard.png",
+        "assets/images/lms/userCrud.png",
+        "assets/images/lms/usersList.png",
+        "assets/images/lms/coursePlans.png",
+        "assets/images/lms/courseCrud.png"
+      ],
+      "Technologies": ["Angular", "MongoDB", "SCSS", "Express.js", "Node.js"],
+      "ghLink": "https://github.com/amnnrajbhar/LMS-Portal",
+      "demoLink": "https://lms-portal-jet.vercel.app/"
+    },
+    {
+      "Title": "Digital Loan Process App",
+      "Description": "Digital loan processing system with <span class='underline'>document verification</span>, <span class='underline'>credit scoring</span>, <span class='underline'>loan tracking</span>, and <span class='underline'>automated approval workflow</span>.",
+      "imgs": [
+        "assets/images/loan/loginPage.png",
+        "assets/images/loan/home.png",
+        "assets/images/loan/checkEligibility.png",
+        "assets/images/loan/emiCalculator.png",
+        "assets/images/loan/applyLoan.png",
+        "assets/images/loan/loanStatus.png",
+        "assets/images/loan/adminDashboard.png"
+      ],
+      "Technologies": ["Angular", "Node.js", "MongoDB", "Express.js"],
+      "ghLink": "https://github.com/amnnrajbhar/digitalLoanProcessApp-Frontend/",
+      "demoLink": "https://digital-loan-process-app.vercel.app/"
+    },
+    {
+      "Title": "HRMS Portal",
+      "Description": "Human Resource Management System featuring <span class='underline'>employee management</span>, <span class='underline'>attendance tracking</span>, <span class='underline'>leave management</span>, and <span class='underline'>performance analytics</span>.",
+      "imgs": [
+        "assets/images/hrms/loginPage.png",
+        "assets/images/hrms/dashboard.png"
+      ],
+      "Technologies": ["Angular", "Node.js", "MongoDB", "Express.js"],
+      "ghLink": "https://github.com/amnnrajbhar/hrms-portal/",
+      "demoLink": "https://hrms-portal-zeta.vercel.app/"
+    }
+  ],
 
-    "Experience.Title": "Experience",
-    "Experience.Jobs": [
-        {
-            "Tab": "Current",
-            "Title": "Software Engineer",
-            "Date": "Dec 2024 - Present",
-            "Description": [
-                "•Adapted interfaces for modern internet applications using the latest front-end technologies.",
-                "•Write JavaScript, CSS, and HTML.",
-                "•Develop product analysis tasks.",
-                "•Did complex technical and design decisions for Angular projects.",
-                "•Develop application code and unit tests in Angular, Java Technologies, and Rest Web Services."
-            ]
-        },
-        {
-            "Tab": "Previous",
-            "Title": "Software developer",
-            "Date": "August 2022 - Present",
-            "Description": [
-              "•Adapted interfaces for modern internet applications using the latest front-end technologies.",
-              "•Write JavaScript, CSS, and HTML.",
-              "•Develop product analysis tasks.",
-              "•Did complex technical and design decisions for Angular projects.",
-              "•Develop application code and unit tests in Angular, Java Technologies, and Rest Web Services."
-            ]
-        }
-    ],
+  "OtherProjects.Title": "More projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Portfolio",
+      "Description": "Simple Portfolio Using Javascript, CSS, and HTML.",
+      "demoLink": "https://amnnrajbhar.github.io/info/",
+      "ghLink": "https://github.com/amnnrajbhar/info/"
+    },
+    {
+      "Title": "Invoice Generator",
+      "Description": "Online Invoice Generator Web App in React.",
+      "demoLink": "https://hrms-portal-zeta.vercel.app/",
+      "ghLink": "https://github.com/amnnrajbhar/hrms-portal/"
+    },
+    {
+      "Title": "Tv Service App",
+      "Description": "An Tv Service App using html, css, and javascript.",
+      "demoLink": "https://amnnrajbhar.github.io/TvService/",
+      "ghLink": "https://github.com/amnnrajbhar/TvService/"
+    },
 
-    "FeatureProjects.Title": "My projects",
-    "FeatureProjects.Label": "Featured Project",
-    "FeatureProjects.Projects": [{
-            "Title": "StyleHub",
-            "Description": "Salon Slot Booking application made from scratch with firebase auth module, <span class='underline'>Choice Based Services</span>, <span class='underline'>Advance Salon Services</span>, and <span class='underline'>user management</span>. It also has <span class='underline'>Razor Payment Gateway.</span>",
-            "imgs": [
-                "assets/images/stylehub/mainLogo.jpg",
-                "assets/images/stylehub/detailsToFill.jpg",
-                "assets/images/stylehub/enterNo.jpg",
-                "assets/images/stylehub/verifyOtp.jpg",
-                "assets/images/stylehub/loginInfo.jpg"
-            ],
-            "Technologies": ["Java", "Android Studio", "XML", "Firebase", "Razorpay"]
-        },
-        {
-            "Title": "Services",
-            "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
-            "imgs": [
-                "assets/images/stylehub/ShopInfo.jpg",
-                "assets/images/stylehub/TimeSelection.jpg",
-                "assets/images/stylehub/Services.jpg",
-                "assets/images/stylehub/hairNshaving.jpg",
-                "assets/images/stylehub/TreatmentAndColor.jpg",
-                "assets/images/stylehub/Payment.jpg",
-                "assets/images/stylehub/paymentMode.jpg",
-                "assets/images/stylehub/BookingStatus.jpg"
-            ],
-            "Technologies": ["Java", "Android Studio", "XML", "Firebase", "Razorpay"]
-        },
-        {
-            "Title": "Database",
-            "Description": "<span class='underline'>Booking</span> and <span class='underline'>Login</span> That Are Made In Stylehub Application can view Here. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
-            "imgs": [
-                "assets/images/stylehub/DB1.jpg",
-                "assets/images/stylehub/DB2.jpg"
-            ],
-            "Technologies": ["Firebase"]
-        }
-    ],
+    {
+      "Title": "Tic Tac Toe Game",
+      "Description": "Tic Tac Toe Game using html, css, and javascript.",
+      "demoLink": "https://amnnrajbhar.github.io/tictactie/",
+      "ghLink": "https://github.com/amnnrajbhar/tictactie/"
+    },
+    {
+      "Title": "3D Motion Artist Portfolio",
+      "Description": "3D Motion Artist Portfolio using Angular,Tailwind CSS.",
+      "demoLink": "https://ashgod.vercel.app/",
+      "ghLink": "https://github.com/amnnrajbhar/ashgod/"
+    },
+    {
+      "Title": "Host Code",
+      "Description": "Host your code and share it with your friends Using Angular,Tailwind CSS,Vs Code Editor Package.",
+      "demoLink": "https://hostcode.vercel.app/",
+      "ghLink": "https://github.com/amnnrajbhar/hostcode"
+    }
 
-
-
-    "OtherProjects.Title": "More projects",
-    "OtherProjects.Projects": [{
-            "Title": "Online Book Store",
-            "Description": "Online Book Store Website Using Razorpay,Xaamp Server"
-        }
-    ],
-    "Contact.Pretitle": "What’s Next",
-    "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
-    "Contact.Btn": "Say Hello"
-
-
+  ],
+  "Contact.Pretitle": "What's Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
 }

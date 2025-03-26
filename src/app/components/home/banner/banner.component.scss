@@ -1,9 +1,8 @@
-
 @import "./../../../../variables.scss";
 
 .banner{
     min-height: 100vh;
-    
+
     .container{
         display: table;
         height: 100vh;
@@ -17,7 +16,7 @@
             }
 
             h1{
-    
+
                 color: #64ffda;
                 margin: 0 0 20px 3px;
                 font-size: 16px;
@@ -36,7 +35,7 @@
             h2{
                 color: $LightestSlate;
             }
-            h3{  
+            h3{
                 color: $Slate;
             }
 
@@ -53,8 +52,21 @@
             }
         }
 
-       
-    }    
+
+    }
+}
+
+.banner-title {
+    h3 {
+        min-height: 40px;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+}
+
+@keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: $Green }
 }
 
 

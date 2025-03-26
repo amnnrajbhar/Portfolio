@@ -79,6 +79,7 @@ export class HeaderComponent implements OnInit {
     }
 
     changeLanguage(language: string) {
+      debugger;
       this.languageFormControl.setValue(language);
     }
 }

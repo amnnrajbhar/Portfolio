@@ -23,6 +23,7 @@ export class MoreProyectsComponent implements OnInit {
         });
     }
     redirect(route: string, event) {
+      debugger;
       const id = event.target.id;
       if(id=='demoLink' || id=='ghLink'){
         return

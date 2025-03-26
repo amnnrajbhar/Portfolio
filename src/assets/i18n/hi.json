@@ -1,0 +1,204 @@
+{
+  "Header.Item1": "मेरे बारे में",
+  "Header.Item2": "अनुभव",
+  "Header.Item3": "प्रोजेक्ट्स",
+  "Header.Item4": "संपर्क",
+  "Header.cvBtn": "रिज्यूम",
+  "Header.cvName": "Aman_Rajbhar.pdf",
+
+  "Banner.Pretitle": "नमस्ते! मेरा नाम है",
+  "Banner.Description": "मेरे पास <span class='underline'>2+ वर्ष का अनुभव</span> है सिस्टम, इंटरफेस, बॉट्स और तकनीकी समाधान विकसित करने में जो वेब को बेहतर बनाते हैं। मैं <span class='underline'>Angular</span> में स्वच्छ, पुन: उपयोग योग्य और स्केलेबल कोड लिखने और रीफैक्टरिंग करने के लिए समर्पित हूं, अच्छी प्रथाओं और विकास मानकों को लागू करते हुए।",
+  "Banner.ActionBtn": "संपर्क करें",
+
+  "AboutMe.Title": "मेरे बारे में",
+  "AboutMe.Paragraphs": [
+    "मेरे <span class='underline'>2+ वर्ष के डेवलपर</span> के रूप में, मैं प्रतिदिन प्रशिक्षण लेने का प्रयास करता हूं। मैंने <span class='underline'>यूनिट टेस्ट</span> लिखने, <span class='underline'>निरंतर एकीकरण</span> करने और <span class='underline'>MVC</span> के साथ बैकएंड डेवलपर की भूमिकाएं निभाने का काम किया है। मैंने सहानुभूति के साथ टीमों का नेतृत्व किया है, साझेदारों को प्रेरित किया है, और साथ मिलकर योजनाएं और लक्ष्य निर्धारित किए हैं।",
+    "मेरे कौशल में सिस्टम सुधार लागू करना, साइटों को अनुकूलित करना, पैटर्न को मानकीकृत करना, और ऐसे विचारों को सुझाना और कार्यान्वित करना शामिल है जो मैं जिस प्रोजेक्ट पर काम कर रहा हूं उसमें मूल्य जोड़ते हैं।",
+    "कुछ ऐसी तकनीकें जिन पर मैंने प्रशिक्षण लिया है और काम किया है (लेकिन इन तक सीमित नहीं हैं):"
+  ],
+
+  "Experience.Title": "अनुभव",
+  "Experience.Jobs": [
+    {
+      "Tab": "वर्तमान",
+      "Company": "Clover Infotech",
+      "Title": "सॉफ्टवेयर इंजीनियर",
+      "Date": "दिसंबर 2024 - वर्तमान",
+      "Description": [
+        "•नवीनतम फ्रंट-एंड तकनीकों का उपयोग करके आधुनिक इंटरनेट अनुप्रयोगों के लिए इंटरफेस को अनुकूलित किया।",
+        "•JavaScript, CSS, और HTML लिखा।",
+        "•उत्पाद विश्लेषण कार्य विकसित किए।",
+        "•Angular प्रोजेक्ट्स के लिए जटिल तकनीकी और डिज़ाइन निर्णय लिए।",
+        "•Angular, Java Technologies, और Rest Web Services में एप्लिकेशन कोड और यूनिट टेस्ट विकसित किए।"
+      ]
+    },
+    {
+      "Tab": "पिछला",
+      "Company": "BSCL",
+      "Title": "सॉफ्टवेयर डेवलपर",
+      "Date": "अगस्त 2022 - वर्तमान",
+      "Description": [
+        "•सुरक्षा-केंद्रित अनुप्रयोगों के लिए आधुनिक फ्रंट-एंड तकनीकों का उपयोग करके इंटरफेस को अनुकूलित किया।",
+        "•इंटरैक्टिव CTF चुनौती प्लेटफॉर्म के लिए JavaScript, CSS, और HTML लिखा।",
+        "•रिवर्स इंजीनियरिंग और Windows सुरक्षा अनुसंधान के लिए विश्लेषण कार्य विकसित किए।",
+        "•Angular और सुरक्षा फ्रेमवर्क से जुड़े प्रोजेक्ट्स के लिए जटिल तकनीकी निर्णय लिए।",
+        "•सुरक्षित कार्यान्वयन पर ध्यान केंद्रित करते हुए Angular, Java technologies, और RESTful वेब सेवाओं में एप्लिकेशन कोड और यूनिट टेस्ट विकसित किए।"
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "मेरे प्रोजेक्ट्स",
+  "FeatureProjects.Label": "विशेष प्रोजेक्ट",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "StyleHub",
+      "Description": "फायरबेस ऑथ मॉड्यूल, <span class='underline'>चॉइस बेस्ड सर्विसेज</span>, <span class='underline'>एडवांस सैलून सर्विसेज</span>, और <span class='underline'>यूजर मैनेजमेंट</span> के साथ स्क्रैच से बनाया गया सैलून स्लॉट बुकिंग एप्लिकेशन। इसमें <span class='underline'>रजोर पेमेंट गेटवे</span> भी है।",
+      "imgs": [
+        "assets/images/stylehub/mainLogo.jpg",
+        "assets/images/stylehub/detailsToFill.jpg",
+        "assets/images/stylehub/enterNo.jpg",
+        "assets/images/stylehub/verifyOtp.jpg",
+        "assets/images/stylehub/loginInfo.jpg"
+      ],
+      "Technologies": ["Java", "Android Studio", "XML", "Firebase", "Razorpay"]
+    },
+    {
+      "Title": "सर्विसेज",
+      "Description": "जल कुओं, टगबोट्स और विभिन्न स्थापनाओं से संबंधित डेटा निगरानी प्लेटफॉर्म जो ऑथ मॉड्यूल, <span class='underline'>कॉन्फ़िगरेबल ग्राफिक्स</span>, <span class='underline'>कॉन्फ़िगरेबल अलार्म</span>, <span class='underline'>यूजर मैनेजमेंट</span>, और <span class='underline'>ओपनलेयर्स के साथ जियोलोकेशन</span> के साथ स्क्रैच से बनाया गया है।",
+      "imgs": [
+        "assets/images/stylehub/ShopInfo.jpg",
+        "assets/images/stylehub/TimeSelection.jpg",
+        "assets/images/stylehub/Services.jpg",
+        "assets/images/stylehub/hairNshaving.jpg",
+        "assets/images/stylehub/TreatmentAndColor.jpg",
+        "assets/images/stylehub/Payment.jpg",
+        "assets/images/stylehub/paymentMode.jpg",
+        "assets/images/stylehub/BookingStatus.jpg"
+      ],
+      "Technologies": ["Java", "Android Studio", "XML", "Firebase", "Razorpay"]
+    },
+    {
+      "Title": "डेटाबेस",
+      "Description": "Stylehub एप्लिकेशन में बनाए गए <span class='underline'>बुकिंग</span> और <span class='underline'>लॉगिन</span> को यहाँ देख सकते हैं। योजनाएं उपयोगकर्ता की आयु, मासिक आय और स्थान के आधार पर प्रदर्शित की जाती हैं। इसमें <span class='underline'>ऑनलाइन चैट</span>, <span class='underline'>संपर्क फॉर्म</span>, <span class='underline'>व्हाट्सएप और मेल द्वारा सूचना प्रणाली</span>, <span class='underline'>ऑथ</span>, और <span class='underline'>प्रशासक की भूमिका के माध्यम से इंटरनेट सूचना प्रबंधन</span> है।",
+      "imgs": [
+        "assets/images/stylehub/DB1.jpg",
+        "assets/images/stylehub/DB2.jpg"
+      ],
+      "Technologies": ["Firebase"]
+    },
+    {
+      "Title": "मौसम वेब ऐप",
+      "Description": "<span class='underline'>OpenWeather API एकीकरण</span>, <span class='underline'>स्थान-आधारित मौसम</span>, <span class='underline'>पूर्वानुमान विवरण</span>, और <span class='underline'>प्रतिक्रियाशील डिज़ाइन</span> के साथ वास्तविक समय मौसम अपडेट एप्लिकेशन।",
+      "imgs": [
+        "assets/images/weather/home.png",
+        "assets/images/weather/forecast.png",
+        "assets/images/weather/dayHome.png"
+      ],
+      "Technologies": ["HTML5", "CSS3", "JavaScript", "OpenWeather API"],
+      "ghLink": "https://github.com/amnnrajbhar/weather-app/",
+      "demoLink": "https://weather-app-amnnrajbhars-projects.vercel.app/"
+    },
+    {
+      "Title": "GenAI वेब ऐप",
+      "Description": "<span class='underline'>Google की जनरेटिव AI</span> के साथ बनाया गया AI-संचालित चैटबॉट एप्लिकेशन, जिसमें <span class='underline'>प्राकृतिक भाषा प्रसंस्करण</span>, <span class='underline'>संदर्भ-जागरूक प्रतिक्रियाएं</span>, और <span class='underline'>आधुनिक UI डिज़ाइन</span> शामिल हैं।",
+      "imgs": [
+        "assets/images/genai/home.jpeg",
+        "assets/images/genai/MobileView.jpeg"
+      ],
+      "Technologies": [
+        "Ionic",
+        "Angular",
+        "Google's Generative AI",
+        "TypeScript"
+      ],
+      "ghLink": "https://github.com/amnnrajbhar/GenAi-iOnic-App/",
+      "demoLink": "https://genai-ionic.vercel.app/home/"
+    },
+    {
+      "Title": "LMS पोर्टल",
+      "Description": "लर्निंग मैनेजमेंट सिस्टम जिसमें <span class='underline'>पाठ्यक्रम प्रबंधन</span>, <span class='underline'>छात्र प्रगति ट्रैकिंग</span>, <span class='underline'>सामग्री वितरण</span>, और <span class='underline'>मूल्यांकन उपकरण</span> शामिल हैं।",
+      "imgs": [
+        "assets/images/lms/loginPage.jpeg",
+        "assets/images/lms/dashboard.png",
+        "assets/images/lms/userCrud.png",
+        "assets/images/lms/usersList.png",
+        "assets/images/lms/coursePlans.png",
+        "assets/images/lms/courseCrud.png"
+      ],
+      "Technologies": ["Angular", "MongoDB", "SCSS", "Express.js", "Node.js"],
+      "ghLink": "https://github.com/amnnrajbhar/LMS-Portal",
+      "demoLink": "https://lms-portal-jet.vercel.app/"
+    },
+    {
+      "Title": "डिजिटल लोन प्रोसेस ऐप",
+      "Description": "डिजिटल लोन प्रसंस्करण प्रणाली जिसमें <span class='underline'>दस्तावेज़ सत्यापन</span>, <span class='underline'>क्रेडिट स्कोरिंग</span>, <span class='underline'>लोन ट्रैकिंग</span>, और <span class='underline'>स्वचालित स्वीकृति वर्कफ़्लो</span> शामिल है।",
+      "imgs": [
+        "assets/images/loan/loginPage.png",
+        "assets/images/loan/home.png",
+        "assets/images/loan/checkEligibility.png",
+        "assets/images/loan/emiCalculator.png",
+        "assets/images/loan/applyLoan.png",
+        "assets/images/loan/loanStatus.png",
+        "assets/images/loan/adminDashboard.png"
+      ],
+      "Technologies": ["Angular", "Node.js", "MongoDB", "Express.js"],
+      "ghLink": "https://github.com/amnnrajbhar/digitalLoanProcessApp-Frontend/",
+      "demoLink": "https://digital-loan-process-app.vercel.app/"
+    },
+    {
+      "Title": "HRMS पोर्टल",
+      "Description": "मानव संसाधन प्रबंधन प्रणाली जिसमें <span class='underline'>कर्मचारी प्रबंधन</span>, <span class='underline'>उपस्थिति ट्रैकिंग</span>, <span class='underline'>अवकाश प्रबंधन</span>, और <span class='underline'>प्रदर्शन विश्लेषण</span> शामिल है।",
+      "imgs": [
+        "assets/images/hrms/loginPage.png",
+        "assets/images/hrms/dashboard.png"
+      ],
+      "Technologies": ["Angular", "Node.js", "MongoDB", "Express.js"],
+      "ghLink": "https://github.com/amnnrajbhar/hrms-portal/",
+      "demoLink": "https://hrms-portal-zeta.vercel.app/"
+    }
+  ],
+
+  "OtherProjects.Title": "अधिक प्रोजेक्ट्स",
+  "OtherProjects.Projects": [
+    {
+      "Title": "पोर्टफोलियो",
+      "Description": "Javascript, CSS, और HTML का उपयोग करके सरल पोर्टफोलियो।",
+      "demoLink": "https://amnnrajbhar.github.io/info/",
+      "ghLink": "https://github.com/amnnrajbhar/info/"
+    },
+    {
+      "Title": "इनवॉइस जनरेटर",
+      "Description": "React में ऑनलाइन इनवॉइस जनरेटर वेब ऐप।",
+      "demoLink": "https://hrms-portal-zeta.vercel.app/",
+      "ghLink": "https://github.com/amnnrajbhar/hrms-portal/"
+    },
+    {
+      "Title": "टीवी सर्विस ऐप",
+      "Description": "HTML, CSS, और JavaScript का उपयोग करके एक टीवी सर्विस ऐप।",
+      "demoLink": "https://amnnrajbhar.github.io/TvService/",
+      "ghLink": "https://github.com/amnnrajbhar/TvService/"
+    },
+    {
+      "Title": "टिक टैक टो गेम",
+      "Description": "HTML, CSS, और JavaScript का उपयोग करके टिक टैक टो गेम।",
+      "demoLink": "https://amnnrajbhar.github.io/tictactie/",
+      "ghLink": "https://github.com/amnnrajbhar/tictactie/"
+    },
+    {
+      "Title": "3D मोशन आर्टिस्ट पोर्टफोलियो",
+      "Description": "Angular, Tailwind CSS का उपयोग करके 3D मोशन आर्टिस्ट पोर्टफोलियो।",
+      "demoLink": "https://ashgod.vercel.app/",
+      "ghLink": "https://github.com/amnnrajbhar/ashgod/"
+    },
+    {
+      "Title": "होस्ट कोड",
+      "Description": "Angular, Tailwind CSS, Vs Code Editor पैकेज का उपयोग करके अपना कोड होस्ट करें और दोस्तों के साथ साझा करें।",
+      "demoLink": "https://hostcode.vercel.app/",
+      "ghLink": "https://github.com/amnnrajbhar/hostcode"
+    }
+  ],
+  "Contact.Pretitle": "आगे क्या",
+  "Contact.Title": "संपर्क करें!",
+  "Contact.Content": "यदि आप नए अवसरों के बारे में बात करना चाहते हैं तो मैं आपका संपर्क प्राप्त करके खुशी होगी। मुझे लिखें, और जैसे ही मैं आपका संदेश देखूंगा, मैं जवाब दूंगा। एक सरल एक-पेज डिज़ाइन जो किसी व्यक्ति के बारे में बुनियादी जानकारी के साथ प्रोफ़ाइल पत्र प्रस्तुत करता है।",
+  "Contact.Btn": "नमस्ते कहें"
+}
